@@ -1,0 +1,2 @@
+include ':app', ':Cirlib'
+rootProject.name='G_Circle'
